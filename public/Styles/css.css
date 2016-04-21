@@ -78,9 +78,11 @@ figure{
 	list-style: none;
 	text-align: center;
 }
-/*about page: bottom half has mapimg and form*/
+/*about page: bottom half has form*/
 .bottomhalf{
 	clear: both;
+	text-align: center;
+	padding: 20px;
 }
 
 /*footer for all the pages*/
