@@ -15,3 +15,7 @@ end
 get '/recipes' do 
 	erb :recipes
 end
+
+get '/form' do
+	puts 'my param are' + params.inspect
+end
