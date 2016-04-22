@@ -18,6 +18,14 @@ header h1{
 #tag{
 	margin-left: 30px;
 }
+/*tried adding a image to header*/
+/*header img{
+	width: 175px;
+	border-radius: 10%;
+	float: right;
+	z-index: 10;
+	margin-right: 30px;
+	}*/
 /*image on the home page*/
 .wheat{
 	width: 90%;
@@ -83,6 +91,22 @@ figure{
 	clear: both;
 	text-align: center;
 	padding: 20px;
+}
+/*recipes page*/
+#tabs-1 img{
+	width: 300px;
+	border-radius: 10%;
+	float: right;
+}
+#tabs-2 img{
+	width: 300px;
+	border-radius: 10%;
+	float: right;
+}
+#tabs-3 img{
+	width: 300px;
+	border-radius: 10%;
+	float: right;
 }
 
 /*footer for all the pages*/
