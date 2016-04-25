@@ -1,19 +1,16 @@
 
 $(document).ready(function(){
 
-// $(function() {
-//    $("#tabs").tabs({
-//      event: "mouseover"
-//    });
-//  });
-$( "#tabs" ).tabs();
+$(function() {
+   $("#tabs").tabs({
+     event: "mouseover"
+   });
+ });
+
 
 })
   
 
-
-
-console.log("hi")
 
 
 

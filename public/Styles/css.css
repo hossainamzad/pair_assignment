@@ -59,8 +59,13 @@ nav ul li a:hover{
 	color: #73C557;
 }
 /*home page*/
-#home{
-	/*padding: 0;*/
+.products{
+	text-align: center;
+}
+
+#home figure{
+	padding: 20px;
+	
 
 }
 #home figure a img{
