@@ -180,7 +180,15 @@ footer ul li{
 footer ul li img {
 	width: 30px;
 }
-
-
+#clock{
+	text-align: center;
+	color: green;
+	/*border: 5px solid skyblue;*/
+	border-radius: 80px;
+	font-size:25px;
+	width:300px;
+	/*background-color: green;*/
+	margin-left: 35%;
+}
 
 

@@ -10,7 +10,15 @@ $(function() {
 
 })
   
+console.log("hi")
 
 
+
+function getCurrentDateTime(){
+
+	document.getElementById("clock") .innerHTML = Date ();
+}
+
+setInterval(getCurrentDateTime, 1000);
 
 
